@@ -8,4 +8,5 @@
 <p>The HTML and CSS files are structured in a modular and organized manner, making it simple to customize the landing page according to your branding requirements or specific project needs.</p>
 
 <hr>
-![Preview]()
+
+![Preview](https://github.com/Chusman3057/Web_Landing_Page/blob/main/Web%20Ladding%20Page.png)
